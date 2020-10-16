@@ -5,11 +5,11 @@ error_reporting(-1);
 ini_set('error_reporting', E_ALL);
 date_default_timezone_set('UTC');
 header("Content-Type:text/html;charset=utf-8");
-define ("BASE_title","emerald");
+define ("BASE_title","BtrWab");
 define ("BASE_title_slog","Watch free web videos");
 define ("BASE_title_sep"," - ");
 define ("BASE_description","Watch free web videos. Online video sharing portal, fast loading page you will not waiting too long");
-define ("BASE_url","http://heroku-website.com");
+define ("BASE_url","https://btrwab.herokuapp.com");
 define ("BASE_disqus","xlx");
 
 define ("BASE_bing","");
